@@ -26,11 +26,13 @@
 
 ## 📌 Proyectos destacados
 
-🔹 **API REST con Express**  
-Proyecto donde implemento autenticación con JWT y CRUD completo.
+🔹 **Buscador de Recetas con API**  
+Aplicación web que permite buscar recetas en tiempo real consumiendo una API externa,
+mostrando resultados dinámicos y detallados.
 
-🔹 **Sistema tipo Kanban**  
-Aplicación para gestión de tareas con backend en Node.js.
+🔹 **Kanban Pro – Gestor de tareas Fullstack**  
+Aplicación completa de gestión de tareas con autenticación de usuarios,
+persistencia de datos y operaciones CRUD en tiempo real.
 
 
 ## 📫 Contacto
