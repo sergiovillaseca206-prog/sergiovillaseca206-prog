@@ -30,9 +30,15 @@
 Aplicación web que permite buscar recetas en tiempo real consumiendo una API externa,
 mostrando resultados dinámicos y detallados.
 
+🔗 Ver Demo   ![screenshot](imageFolder/screenshot.png)
+💻 [Ver Código](https://github.com/sergiovillaseca206-prog/buscador-recetas.git)
+
 🔹 **Kanban Pro – Gestor de tareas Fullstack**  
 Aplicación completa de gestión de tareas con autenticación de usuarios,
 persistencia de datos y operaciones CRUD en tiempo real.
+
+🔗 Ver Demo   ![screenshot](imageFolder/screenshot2.png)
+💻 [Ver Código](https://github.com/sergiovillaseca206-prog/Kanban-Pro.git)
 
 
 ## 📫 Contacto
